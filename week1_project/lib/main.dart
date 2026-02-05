@@ -32,7 +32,7 @@ class HelloWorldScreen extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
-            const Text(
+            Text(
             'Hello World',
           style: TextStyle(
             fontSize: 40,
@@ -40,13 +40,13 @@ class HelloWorldScreen extends StatelessWidget {
             color: Colors.blue,
           ),
         ),
-        const SizedBox(height: 20),
+        SizedBox(height: 20),
         Icon(
           Icons.code,
           size: 50,
           color: Colors.green,
         ),
-        const SizedBox(height: 20),
+        SizedBox(height: 20),
         Text(
           'Department of Computer Science and Engineering',
           style:TextStyle(
