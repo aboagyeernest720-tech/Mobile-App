@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433434265166",
+    "project_id": "authentic-user-dashboard-app",
+    "storage_bucket": "authentic-user-dashboard-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433434265166:android:f5eb595d5ec6e2550ee51f",
+        "android_client_info": {
+          "package_name": "com.example.week5_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCnxp5nEOCmAeUOdphRBiLw_L_ZPcWe20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
