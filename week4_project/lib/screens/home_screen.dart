@@ -5,7 +5,6 @@ import 'add_expense_screen.dart';
 import 'expense_detail_screen.dart';
 import '../widgets/expense_card.dart';
 import '../widgets/animated_total_amount.dart';
-import 'package:intl/intl.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
