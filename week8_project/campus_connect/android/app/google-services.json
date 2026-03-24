@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477566023264",
+    "project_id": "myprojects-b3200",
+    "storage_bucket": "myprojects-b3200.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477566023264:android:0ecfc0e4e75cea6ebeb505",
+        "android_client_info": {
+          "package_name": "com.example.campus_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8irNwtjdeJEmbMBeoRIhDJ47nmdN8r4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
